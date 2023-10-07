@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on a **Song recommendation system.**
 
-- 🌱 I’m currently learning **Big Data and IA**
+- 🌱 I’m currently learning **Big Data and AI**
 
 - 🤝 I’m looking for an internship **Between November and March.**
 
