@@ -4,9 +4,9 @@
 
 - 🚗 Check out my new data project: [Car Accident Dashboard](https://car-accident-dashboard.streamlit.app/)
 
-- 🔭 I’ve just completed my **Song Recommendation System** project. You can find the repository [here]([link_to_repo](https://github.com/cleophass/tadai)).
+- 🔭 I’ve just completed my **Song Recommendation System** project. You can find the repository [here](https://github.com/cleophass/tadai).
 
-- 🛍️ You can explore my previous project [Solution 250]([link_to_repo](https://github.com/jeandtx/Solution250)).
+- 🛍️ You can explore my previous project [Solution 250](https://github.com/jeandtx/Solution250).
 
 - 🌱 Currently, I’m focused on learning **Big Data and AI**.
 
