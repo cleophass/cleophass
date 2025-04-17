@@ -10,8 +10,6 @@
 
 - 🌱 Currently, I’m focused on learning **Big Data and AI**.
 
-- 🤝 I’m actively seeking an internship **between November and March**.
-
 - 📫 How to reach me: [cleophas.fournier@efrei.net](mailto:cleophas.fournier@efrei.net)
 
 <h3 align="left">Connect with me:</h3>
