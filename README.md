@@ -1,16 +1,8 @@
 <h1 align="center">Hi 👋, I'm Cléophas</h1>
-<h3 align="center">A passionate Data Engineering student from France.</h3>
+<h3 align="center">A passionate Data & AI Engineer from France.</h3>
 
 
-- 🚗 Check out my new data project: [Car Accident Dashboard](https://car-accident-dashboard.streamlit.app/)
-
-- 🔭 I’ve just completed my **Song Recommendation System** project. You can find the repository [here](https://github.com/cleophass/tadai).
-
-- 🛍️ You can explore my previous project [Solution 250](https://github.com/jeandtx/Solution250).
-
-- 🌱 Currently, I’m focused on learning **Big Data and AI**.
-
-- 📫 How to reach me: [cleophas.fournier@efrei.net](mailto:cleophas.fournier@efrei.net)
+- 🌐 Check out my website : [Tech Bro](https://yourtechbro.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
