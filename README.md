@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist from France.</h3>
 
 <p align="center">
-- 🌐 Check out my website: <a href="https://yourtechbro.vercel.app/">Portfolio</a>
+🌐 Check out my website: <a href="https://yourtechbro.vercel.app/">Portfolio</a>
 </p>
 
 <h3 align="center">LeetCode Activity</h3>
