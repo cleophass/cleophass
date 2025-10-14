@@ -1,17 +1,15 @@
-<h1 align="center">Hi 👋, I'm Cléophas</h1>
-<h3 align="center">Data Scientist from France.</h3>
+<h1>Hi 👋, I'm Cléophas</h1>
+<h3>Data Scientist from France.</h3>
 
 - 🌐 Check out my website: [Portfolio](https://yourtechbro.vercel.app/)
 
-<h3 align="center">LeetCode Activity</h3>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/cleophass?theme=nord&font=Montserrat&ext=heatmap" alt="LeetCode Heatmap" />
-</p>
+<h3>LeetCode Activity</h3>
+<img src="https://leetcard.jacoblin.cool/cleophass?theme=nord&font=Montserrat&ext=heatmap" alt="LeetCode Heatmap" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3>Connect with me:</h3>
+<p>
   <a href="https://linkedin.com/in/cleophasfournier" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cleophasfournier" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cleophasfournier" height="30" width="40" />
   </a>
 </p>
 
